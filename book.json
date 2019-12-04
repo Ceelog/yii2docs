@@ -1,0 +1,18 @@
+{
+  "title": "yii2docs",
+  "author": "yii2",
+  "plugins": [
+    "theme-roadmapedu",
+    "-sharing", 
+    "edit-link"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/Ceelog/yii2docs/edit/master/",
+      "label": "修订此页面"
+    },
+    "theme-default": {
+      "showLevel": false
+    }
+  }
+}
